@@ -1,0 +1,501 @@
+ID_Venta,Fecha,Producto,Categoría,Sucursal,Canal,Precio_Unitario,Cantidad,Total_Venta,Vendedor
+1,2024-02-26,Falda Midi,Ropa Mujer,Guadalajara,Online,233,1,233,Canal Web
+2,2024-06-16,Mochila Urbana,Accesorios,Puebla,Online,1085,5,5425,Canal Web
+3,2025-01-11,Zapatos Formales,Calzado,Puebla,Tienda,984,3,2952,Jorge Pérez
+4,2024-04-06,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,176,4,704,Ana Sánchez
+5,2024-07-21,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,443,4,1772,Jorge Pérez
+6,2024-12-21,Playera Básica,Ropa Hombre,Monterrey,Tienda,894,2,1788,Carmen Díaz
+7,2024-04-12,Mochila Urbana,Accesorios,Monterrey,Online,1172,3,3516,Canal Web
+8,2025-01-26,Zapatos Formales,Calzado,Puebla,Online,1124,5,5620,Canal Web
+9,2024-07-26,Reloj Deportivo,Accesorios,Guadalajara,Tienda,1081,1,1081,Ana Sánchez
+10,2024-05-08,Lentes de Sol,Accesorios,Monterrey,Tienda,210,1,210,Ana Sánchez
+11,2025-03-01,Camisa Casual,Ropa Hombre,CDMX Centro,Tienda,933,5,4665,Carmen Díaz
+12,2024-03-19,Zapatos Formales,Calzado,Querétaro,Tienda,306,5,1530,Jorge Pérez
+13,2025-02-09,Mochila Urbana,Accesorios,Guadalajara,Online,1154,5,5770,Canal Web
+14,2024-05-13,Zapatos Formales,Calzado,Querétaro,Tienda,214,4,856,Ana Sánchez
+15,2024-07-15,Lentes de Sol,Accesorios,Puebla,Online,1091,1,1091,Canal Web
+16,2024-01-17,Vestido Casual,Ropa Mujer,Guadalajara,Tienda,1156,4,4624,Luis Moreno
+17,2024-06-08,Lentes de Sol,Accesorios,CDMX Centro,Online,1112,4,4448,Canal Web
+18,2024-10-14,Vestido Casual,Ropa Mujer,CDMX Centro,Online,689,4,2756,Canal Web
+19,2024-10-29,Reloj Deportivo,Accesorios,Guadalajara,Online,806,1,806,Canal Web
+20,2024-01-15,Jeans Slim,Ropa Hombre,Guadalajara,Online,205,3,615,Canal Web
+21,2024-07-13,Camisa Casual,Ropa Hombre,Guadalajara,Online,993,3,2979,Canal Web
+22,2024-01-29,Blusa Floral,Ropa Mujer,Monterrey,Online,323,1,323,Canal Web
+23,2025-03-20,Tenis Urbanos,Calzado,Guadalajara,Tienda,190,5,950,Carmen Díaz
+24,2024-01-20,Reloj Deportivo,Accesorios,Puebla,Online,696,1,696,Canal Web
+25,2024-12-22,Reloj Deportivo,Accesorios,CDMX Centro,Online,923,5,4615,Canal Web
+26,2024-07-18,Zapatos Formales,Calzado,CDMX Centro,Online,354,2,708,Canal Web
+27,2024-06-21,Reloj Deportivo,Accesorios,Guadalajara,Tienda,763,3,2289,Jorge Pérez
+28,2024-04-13,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,738,3,2214,Ana Sánchez
+29,2024-06-01,Mochila Urbana,Accesorios,Querétaro,Tienda,344,5,1720,Carmen Díaz
+30,2024-05-19,Playera Básica,Ropa Hombre,Querétaro,Online,1024,2,2048,Canal Web
+31,2024-06-26,Playera Básica,Ropa Hombre,Guadalajara,Online,1036,5,5180,Canal Web
+32,2024-06-09,Falda Midi,Ropa Mujer,Puebla,Online,1078,5,5390,Canal Web
+33,2024-04-02,Playera Básica,Ropa Hombre,Querétaro,Tienda,1172,2,2344,Jorge Pérez
+34,2024-05-17,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,896,4,3584,Luis Moreno
+35,2024-05-03,Vestido Casual,Ropa Mujer,Guadalajara,Online,990,3,2970,Canal Web
+36,2025-03-16,Playera Básica,Ropa Hombre,Monterrey,Online,696,3,2088,Canal Web
+37,2024-11-26,Falda Midi,Ropa Mujer,Querétaro,Tienda,981,2,1962,Ana Sánchez
+38,2024-03-17,Blusa Floral,Ropa Mujer,Monterrey,Online,1100,4,4400,Canal Web
+39,2024-10-13,Lentes de Sol,Accesorios,CDMX Centro,Tienda,476,3,1428,Luis Moreno
+40,2024-01-15,Botas Negras,Calzado,Querétaro,Tienda,236,4,944,Ana Sánchez
+41,2024-01-29,Camisa Casual,Ropa Hombre,Querétaro,Online,280,4,1120,Canal Web
+42,2025-04-04,Zapatos Formales,Calzado,CDMX Centro,Online,437,2,874,Canal Web
+43,2024-02-27,Playera Básica,Ropa Hombre,Querétaro,Online,1166,1,1166,Canal Web
+44,2024-05-01,Camisa Casual,Ropa Hombre,Guadalajara,Online,633,4,2532,Canal Web
+45,2024-04-21,Blusa Floral,Ropa Mujer,Monterrey,Tienda,712,4,2848,Jorge Pérez
+46,2024-05-10,Camisa Casual,Ropa Hombre,Querétaro,Online,381,3,1143,Canal Web
+47,2024-10-06,Lentes de Sol,Accesorios,Monterrey,Online,446,3,1338,Canal Web
+48,2024-08-31,Botas Negras,Calzado,CDMX Centro,Tienda,261,2,522,Carmen Díaz
+49,2024-10-09,Lentes de Sol,Accesorios,Guadalajara,Tienda,634,4,2536,Jorge Pérez
+50,2024-01-05,Lentes de Sol,Accesorios,Guadalajara,Tienda,632,3,1896,Luis Moreno
+51,2025-03-16,Falda Midi,Ropa Mujer,Guadalajara,Online,219,3,657,Canal Web
+52,2025-03-19,Camisa Casual,Ropa Hombre,Puebla,Online,831,4,3324,Canal Web
+53,2025-03-24,Jeans Slim,Ropa Hombre,Guadalajara,Tienda,870,4,3480,Carmen Díaz
+54,2024-08-20,Jeans Slim,Ropa Hombre,Monterrey,Online,428,1,428,Canal Web
+55,2024-07-24,Vestido Casual,Ropa Mujer,Guadalajara,Online,318,1,318,Canal Web
+56,2024-03-21,Vestido Casual,Ropa Mujer,Monterrey,Online,804,4,3216,Canal Web
+57,2024-09-01,Falda Midi,Ropa Mujer,Monterrey,Online,727,2,1454,Canal Web
+58,2024-02-13,Lentes de Sol,Accesorios,Monterrey,Online,922,5,4610,Canal Web
+59,2024-04-24,Jeans Slim,Ropa Hombre,Querétaro,Tienda,332,4,1328,Luis Moreno
+60,2024-05-14,Blusa Floral,Ropa Mujer,Puebla,Online,682,2,1364,Canal Web
+61,2024-02-15,Tenis Urbanos,Calzado,Querétaro,Tienda,178,5,890,Jorge Pérez
+62,2025-01-30,Reloj Deportivo,Accesorios,Puebla,Tienda,609,2,1218,Luis Moreno
+63,2025-03-17,Botas Negras,Calzado,Puebla,Online,416,4,1664,Canal Web
+64,2025-03-14,Vestido Casual,Ropa Mujer,Monterrey,Online,537,4,2148,Canal Web
+65,2024-04-02,Mochila Urbana,Accesorios,CDMX Centro,Online,686,2,1372,Canal Web
+66,2024-11-12,Mochila Urbana,Accesorios,Guadalajara,Online,325,1,325,Canal Web
+67,2024-08-28,Falda Midi,Ropa Mujer,Puebla,Tienda,935,4,3740,Carmen Díaz
+68,2024-02-07,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,831,2,1662,Jorge Pérez
+69,2024-06-30,Jeans Slim,Ropa Hombre,Guadalajara,Online,769,4,3076,Canal Web
+70,2024-12-09,Tenis Urbanos,Calzado,Querétaro,Tienda,517,3,1551,Luis Moreno
+71,2024-09-14,Lentes de Sol,Accesorios,Puebla,Tienda,333,3,999,Jorge Pérez
+72,2024-03-13,Tenis Urbanos,Calzado,Guadalajara,Tienda,411,4,1644,Carmen Díaz
+73,2025-01-17,Botas Negras,Calzado,Guadalajara,Online,690,5,3450,Canal Web
+74,2024-06-09,Mochila Urbana,Accesorios,Guadalajara,Online,459,5,2295,Canal Web
+75,2025-03-12,Mochila Urbana,Accesorios,Monterrey,Tienda,261,2,522,Luis Moreno
+76,2024-01-19,Lentes de Sol,Accesorios,Monterrey,Online,1043,1,1043,Canal Web
+77,2025-04-03,Mochila Urbana,Accesorios,Puebla,Online,1143,4,4572,Canal Web
+78,2024-09-09,Playera Básica,Ropa Hombre,Monterrey,Tienda,865,1,865,Luis Moreno
+79,2025-03-20,Tenis Urbanos,Calzado,Monterrey,Online,584,5,2920,Canal Web
+80,2024-01-03,Falda Midi,Ropa Mujer,CDMX Centro,Tienda,1170,1,1170,Carmen Díaz
+81,2024-01-14,Zapatos Formales,Calzado,CDMX Centro,Online,915,5,4575,Canal Web
+82,2024-02-24,Tenis Urbanos,Calzado,CDMX Centro,Tienda,1092,4,4368,Jorge Pérez
+83,2024-11-17,Zapatos Formales,Calzado,CDMX Centro,Online,239,5,1195,Canal Web
+84,2024-08-19,Zapatos Formales,Calzado,Querétaro,Tienda,582,1,582,Carmen Díaz
+85,2024-06-14,Playera Básica,Ropa Hombre,CDMX Centro,Online,339,4,1356,Canal Web
+86,2024-05-10,Blusa Floral,Ropa Mujer,Puebla,Tienda,192,2,384,Luis Moreno
+87,2024-07-17,Lentes de Sol,Accesorios,Monterrey,Tienda,761,4,3044,Jorge Pérez
+88,2025-01-11,Zapatos Formales,Calzado,Querétaro,Tienda,885,1,885,Carmen Díaz
+89,2024-09-19,Falda Midi,Ropa Mujer,Puebla,Online,1125,3,3375,Canal Web
+90,2024-10-15,Mochila Urbana,Accesorios,Puebla,Online,531,4,2124,Canal Web
+91,2024-11-18,Mochila Urbana,Accesorios,CDMX Centro,Online,1099,2,2198,Canal Web
+92,2024-11-27,Falda Midi,Ropa Mujer,Querétaro,Tienda,745,4,2980,Jorge Pérez
+93,2024-02-10,Lentes de Sol,Accesorios,Monterrey,Tienda,765,2,1530,Jorge Pérez
+94,2024-05-31,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,370,5,1850,Jorge Pérez
+95,2024-07-30,Camisa Casual,Ropa Hombre,Querétaro,Online,877,3,2631,Canal Web
+96,2024-10-26,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,1097,2,2194,Luis Moreno
+97,2025-03-07,Mochila Urbana,Accesorios,CDMX Centro,Online,759,3,2277,Canal Web
+98,2024-10-27,Reloj Deportivo,Accesorios,Puebla,Online,849,2,1698,Canal Web
+99,2024-04-18,Blusa Floral,Ropa Mujer,Querétaro,Online,367,4,1468,Canal Web
+100,2024-09-30,Jeans Slim,Ropa Hombre,Puebla,Tienda,177,2,354,Jorge Pérez
+101,2024-08-23,Reloj Deportivo,Accesorios,Querétaro,Online,770,5,3850,Canal Web
+102,2025-02-20,Zapatos Formales,Calzado,Puebla,Online,329,2,658,Canal Web
+103,2024-03-10,Jeans Slim,Ropa Hombre,CDMX Centro,Tienda,535,1,535,Luis Moreno
+104,2024-09-03,Vestido Casual,Ropa Mujer,Monterrey,Online,540,1,540,Canal Web
+105,2024-06-03,Mochila Urbana,Accesorios,Puebla,Online,194,1,194,Canal Web
+106,2024-03-26,Vestido Casual,Ropa Mujer,Puebla,Online,1115,1,1115,Canal Web
+107,2025-03-16,Reloj Deportivo,Accesorios,Monterrey,Tienda,753,5,3765,Jorge Pérez
+108,2024-01-27,Tenis Urbanos,Calzado,CDMX Centro,Online,1001,4,4004,Canal Web
+109,2025-01-12,Tenis Urbanos,Calzado,Puebla,Online,1145,5,5725,Canal Web
+110,2024-10-29,Mochila Urbana,Accesorios,CDMX Centro,Tienda,1014,5,5070,Carmen Díaz
+111,2024-10-10,Camisa Casual,Ropa Hombre,Puebla,Online,389,4,1556,Canal Web
+112,2024-11-14,Botas Negras,Calzado,Puebla,Tienda,480,3,1440,Luis Moreno
+113,2024-08-28,Botas Negras,Calzado,Monterrey,Tienda,844,5,4220,Jorge Pérez
+114,2024-03-08,Zapatos Formales,Calzado,Puebla,Online,887,4,3548,Canal Web
+115,2025-02-13,Vestido Casual,Ropa Mujer,Monterrey,Online,326,4,1304,Canal Web
+116,2024-03-07,Blusa Floral,Ropa Mujer,Monterrey,Online,356,4,1424,Canal Web
+117,2024-09-09,Tenis Urbanos,Calzado,Monterrey,Tienda,187,3,561,Carmen Díaz
+118,2024-07-01,Blusa Floral,Ropa Mujer,Querétaro,Tienda,280,3,840,Jorge Pérez
+119,2024-02-28,Blusa Floral,Ropa Mujer,Querétaro,Tienda,1146,3,3438,Carmen Díaz
+120,2025-02-05,Tenis Urbanos,Calzado,Querétaro,Online,459,5,2295,Canal Web
+121,2024-11-05,Playera Básica,Ropa Hombre,CDMX Centro,Online,1086,1,1086,Canal Web
+122,2024-02-24,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,492,1,492,Luis Moreno
+123,2024-07-04,Vestido Casual,Ropa Mujer,Guadalajara,Online,1186,4,4744,Canal Web
+124,2025-01-10,Jeans Slim,Ropa Hombre,Guadalajara,Online,432,1,432,Canal Web
+125,2025-03-10,Falda Midi,Ropa Mujer,Puebla,Tienda,652,4,2608,Carmen Díaz
+126,2024-05-26,Blusa Floral,Ropa Mujer,Guadalajara,Online,999,3,2997,Canal Web
+127,2024-11-18,Blusa Floral,Ropa Mujer,Querétaro,Online,617,2,1234,Canal Web
+128,2025-02-14,Lentes de Sol,Accesorios,Puebla,Online,890,1,890,Canal Web
+129,2024-08-14,Blusa Floral,Ropa Mujer,Querétaro,Tienda,323,3,969,Carmen Díaz
+130,2024-07-24,Falda Midi,Ropa Mujer,CDMX Centro,Online,225,2,450,Canal Web
+131,2024-10-21,Playera Básica,Ropa Hombre,Querétaro,Online,1008,4,4032,Canal Web
+132,2025-03-29,Zapatos Formales,Calzado,Guadalajara,Online,166,3,498,Canal Web
+133,2025-04-05,Vestido Casual,Ropa Mujer,Puebla,Online,570,5,2850,Canal Web
+134,2024-11-15,Reloj Deportivo,Accesorios,Guadalajara,Online,554,3,1662,Canal Web
+135,2024-02-13,Playera Básica,Ropa Hombre,Guadalajara,Online,408,5,2040,Canal Web
+136,2024-10-03,Tenis Urbanos,Calzado,CDMX Centro,Online,847,2,1694,Canal Web
+137,2024-01-12,Playera Básica,Ropa Hombre,Querétaro,Online,644,3,1932,Canal Web
+138,2025-01-06,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,913,3,2739,Carmen Díaz
+139,2024-03-04,Playera Básica,Ropa Hombre,CDMX Centro,Online,760,5,3800,Canal Web
+140,2025-01-12,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,628,3,1884,Carmen Díaz
+141,2024-05-25,Vestido Casual,Ropa Mujer,Puebla,Tienda,365,3,1095,Luis Moreno
+142,2025-02-25,Botas Negras,Calzado,CDMX Centro,Tienda,1021,4,4084,Ana Sánchez
+143,2024-02-17,Camisa Casual,Ropa Hombre,Monterrey,Online,589,4,2356,Canal Web
+144,2024-02-09,Zapatos Formales,Calzado,Querétaro,Online,958,3,2874,Canal Web
+145,2024-10-26,Reloj Deportivo,Accesorios,Puebla,Online,1152,4,4608,Canal Web
+146,2025-02-25,Blusa Floral,Ropa Mujer,Querétaro,Tienda,1142,4,4568,Luis Moreno
+147,2024-12-26,Playera Básica,Ropa Hombre,Monterrey,Online,1119,1,1119,Canal Web
+148,2025-01-17,Vestido Casual,Ropa Mujer,Guadalajara,Tienda,986,1,986,Ana Sánchez
+149,2024-07-08,Tenis Urbanos,Calzado,Querétaro,Tienda,391,3,1173,Carmen Díaz
+150,2024-07-10,Botas Negras,Calzado,Puebla,Tienda,442,2,884,Jorge Pérez
+151,2024-01-25,Botas Negras,Calzado,Monterrey,Tienda,1151,1,1151,Ana Sánchez
+152,2024-10-07,Tenis Urbanos,Calzado,CDMX Centro,Online,1135,5,5675,Canal Web
+153,2024-06-07,Lentes de Sol,Accesorios,Puebla,Online,421,2,842,Canal Web
+154,2024-09-15,Lentes de Sol,Accesorios,Puebla,Tienda,816,1,816,Jorge Pérez
+155,2024-07-17,Falda Midi,Ropa Mujer,Guadalajara,Tienda,1057,3,3171,Ana Sánchez
+156,2025-03-19,Vestido Casual,Ropa Mujer,CDMX Centro,Online,403,5,2015,Canal Web
+157,2024-02-13,Vestido Casual,Ropa Mujer,Querétaro,Tienda,537,4,2148,Ana Sánchez
+158,2024-03-02,Blusa Floral,Ropa Mujer,Guadalajara,Tienda,652,5,3260,Jorge Pérez
+159,2024-02-13,Botas Negras,Calzado,Querétaro,Tienda,1156,1,1156,Carmen Díaz
+160,2024-08-11,Falda Midi,Ropa Mujer,CDMX Centro,Online,932,3,2796,Canal Web
+161,2024-02-16,Jeans Slim,Ropa Hombre,Querétaro,Tienda,734,2,1468,Luis Moreno
+162,2024-05-10,Jeans Slim,Ropa Hombre,Guadalajara,Online,496,1,496,Canal Web
+163,2024-11-10,Tenis Urbanos,Calzado,CDMX Centro,Tienda,760,4,3040,Ana Sánchez
+164,2024-06-12,Falda Midi,Ropa Mujer,Guadalajara,Online,919,1,919,Canal Web
+165,2024-01-27,Blusa Floral,Ropa Mujer,Querétaro,Tienda,1159,5,5795,Jorge Pérez
+166,2024-02-28,Tenis Urbanos,Calzado,Guadalajara,Online,983,1,983,Canal Web
+167,2024-09-04,Camisa Casual,Ropa Hombre,Monterrey,Tienda,701,5,3505,Ana Sánchez
+168,2024-05-06,Falda Midi,Ropa Mujer,Querétaro,Online,1063,1,1063,Canal Web
+169,2025-03-09,Blusa Floral,Ropa Mujer,Guadalajara,Tienda,652,5,3260,Jorge Pérez
+170,2024-10-11,Mochila Urbana,Accesorios,CDMX Centro,Online,742,2,1484,Canal Web
+171,2024-01-01,Camisa Casual,Ropa Hombre,Guadalajara,Online,928,3,2784,Canal Web
+172,2025-03-07,Vestido Casual,Ropa Mujer,Querétaro,Online,243,2,486,Canal Web
+173,2025-01-13,Camisa Casual,Ropa Hombre,CDMX Centro,Online,401,2,802,Canal Web
+174,2025-01-06,Botas Negras,Calzado,Monterrey,Online,851,3,2553,Canal Web
+175,2025-01-20,Lentes de Sol,Accesorios,Monterrey,Online,849,2,1698,Canal Web
+176,2024-08-23,Tenis Urbanos,Calzado,Monterrey,Tienda,1125,1,1125,Ana Sánchez
+177,2024-12-10,Falda Midi,Ropa Mujer,Querétaro,Online,954,5,4770,Canal Web
+178,2024-02-11,Playera Básica,Ropa Hombre,CDMX Centro,Online,402,3,1206,Canal Web
+179,2025-02-20,Reloj Deportivo,Accesorios,Guadalajara,Online,512,1,512,Canal Web
+180,2024-03-04,Lentes de Sol,Accesorios,Monterrey,Online,169,2,338,Canal Web
+181,2025-01-15,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,334,5,1670,Carmen Díaz
+182,2025-02-17,Blusa Floral,Ropa Mujer,Puebla,Online,225,3,675,Canal Web
+183,2024-09-09,Blusa Floral,Ropa Mujer,Monterrey,Online,377,3,1131,Canal Web
+184,2024-10-18,Mochila Urbana,Accesorios,Querétaro,Tienda,509,1,509,Luis Moreno
+185,2025-01-16,Jeans Slim,Ropa Hombre,Guadalajara,Tienda,711,2,1422,Ana Sánchez
+186,2024-12-20,Zapatos Formales,Calzado,Querétaro,Online,154,4,616,Canal Web
+187,2024-11-24,Camisa Casual,Ropa Hombre,Puebla,Online,711,1,711,Canal Web
+188,2024-12-14,Lentes de Sol,Accesorios,Guadalajara,Tienda,609,1,609,Carmen Díaz
+189,2024-08-03,Lentes de Sol,Accesorios,CDMX Centro,Online,548,3,1644,Canal Web
+190,2024-02-11,Playera Básica,Ropa Hombre,Monterrey,Online,302,2,604,Canal Web
+191,2024-04-10,Falda Midi,Ropa Mujer,Guadalajara,Tienda,348,1,348,Jorge Pérez
+192,2024-08-09,Playera Básica,Ropa Hombre,Guadalajara,Online,656,1,656,Canal Web
+193,2024-08-30,Falda Midi,Ropa Mujer,CDMX Centro,Online,634,1,634,Canal Web
+194,2025-02-01,Mochila Urbana,Accesorios,Puebla,Tienda,325,1,325,Ana Sánchez
+195,2024-07-12,Zapatos Formales,Calzado,CDMX Centro,Tienda,276,4,1104,Ana Sánchez
+196,2024-06-03,Mochila Urbana,Accesorios,CDMX Centro,Tienda,256,3,768,Jorge Pérez
+197,2024-07-24,Playera Básica,Ropa Hombre,Puebla,Tienda,171,4,684,Jorge Pérez
+198,2024-08-25,Reloj Deportivo,Accesorios,Querétaro,Tienda,845,1,845,Jorge Pérez
+199,2024-09-21,Zapatos Formales,Calzado,Monterrey,Tienda,360,1,360,Ana Sánchez
+200,2024-10-30,Vestido Casual,Ropa Mujer,Monterrey,Online,877,4,3508,Canal Web
+201,2024-09-03,Mochila Urbana,Accesorios,Monterrey,Tienda,240,1,240,Luis Moreno
+202,2024-06-08,Reloj Deportivo,Accesorios,Guadalajara,Online,448,2,896,Canal Web
+203,2024-08-28,Zapatos Formales,Calzado,Guadalajara,Online,905,1,905,Canal Web
+204,2024-09-22,Blusa Floral,Ropa Mujer,Monterrey,Tienda,1014,3,3042,Luis Moreno
+205,2024-04-12,Blusa Floral,Ropa Mujer,Guadalajara,Tienda,1124,4,4496,Carmen Díaz
+206,2025-03-12,Zapatos Formales,Calzado,Guadalajara,Online,823,2,1646,Canal Web
+207,2024-02-23,Mochila Urbana,Accesorios,Puebla,Tienda,157,2,314,Luis Moreno
+208,2024-08-26,Blusa Floral,Ropa Mujer,Puebla,Online,919,2,1838,Canal Web
+209,2024-07-23,Blusa Floral,Ropa Mujer,Guadalajara,Tienda,301,3,903,Ana Sánchez
+210,2024-10-11,Jeans Slim,Ropa Hombre,Guadalajara,Online,548,5,2740,Canal Web
+211,2025-01-26,Tenis Urbanos,Calzado,CDMX Centro,Tienda,555,3,1665,Luis Moreno
+212,2024-04-22,Zapatos Formales,Calzado,Monterrey,Online,653,2,1306,Canal Web
+213,2024-04-10,Jeans Slim,Ropa Hombre,Guadalajara,Tienda,192,2,384,Jorge Pérez
+214,2024-12-01,Camisa Casual,Ropa Hombre,Monterrey,Online,1084,2,2168,Canal Web
+215,2024-07-08,Zapatos Formales,Calzado,Monterrey,Online,283,1,283,Canal Web
+216,2024-03-14,Blusa Floral,Ropa Mujer,Monterrey,Online,916,3,2748,Canal Web
+217,2024-11-02,Reloj Deportivo,Accesorios,Monterrey,Tienda,537,5,2685,Carmen Díaz
+218,2025-02-08,Falda Midi,Ropa Mujer,Monterrey,Tienda,723,2,1446,Jorge Pérez
+219,2024-04-17,Camisa Casual,Ropa Hombre,Querétaro,Tienda,492,5,2460,Jorge Pérez
+220,2025-01-19,Botas Negras,Calzado,Querétaro,Online,516,3,1548,Canal Web
+221,2024-12-30,Zapatos Formales,Calzado,Puebla,Online,1120,3,3360,Canal Web
+222,2024-10-24,Reloj Deportivo,Accesorios,Querétaro,Tienda,574,2,1148,Luis Moreno
+223,2024-08-19,Falda Midi,Ropa Mujer,Monterrey,Online,1020,4,4080,Canal Web
+224,2024-10-19,Falda Midi,Ropa Mujer,Guadalajara,Tienda,425,1,425,Carmen Díaz
+225,2024-08-15,Tenis Urbanos,Calzado,Querétaro,Tienda,1102,5,5510,Carmen Díaz
+226,2024-08-06,Lentes de Sol,Accesorios,Puebla,Online,902,4,3608,Canal Web
+227,2024-06-11,Botas Negras,Calzado,CDMX Centro,Tienda,1054,2,2108,Carmen Díaz
+228,2024-11-26,Camisa Casual,Ropa Hombre,CDMX Centro,Online,1177,5,5885,Canal Web
+229,2024-10-06,Camisa Casual,Ropa Hombre,Monterrey,Tienda,392,1,392,Carmen Díaz
+230,2024-01-20,Falda Midi,Ropa Mujer,Monterrey,Online,662,3,1986,Canal Web
+231,2025-01-16,Tenis Urbanos,Calzado,Querétaro,Tienda,684,1,684,Carmen Díaz
+232,2024-05-24,Botas Negras,Calzado,Puebla,Tienda,1116,5,5580,Luis Moreno
+233,2025-03-19,Mochila Urbana,Accesorios,Monterrey,Tienda,1121,2,2242,Jorge Pérez
+234,2025-01-04,Lentes de Sol,Accesorios,CDMX Centro,Online,534,4,2136,Canal Web
+235,2025-01-29,Mochila Urbana,Accesorios,Puebla,Online,211,3,633,Canal Web
+236,2024-03-12,Falda Midi,Ropa Mujer,CDMX Centro,Online,876,3,2628,Canal Web
+237,2024-04-25,Lentes de Sol,Accesorios,Puebla,Online,817,5,4085,Canal Web
+238,2024-01-12,Jeans Slim,Ropa Hombre,Monterrey,Online,950,4,3800,Canal Web
+239,2024-04-14,Mochila Urbana,Accesorios,Querétaro,Online,535,4,2140,Canal Web
+240,2024-02-25,Zapatos Formales,Calzado,Puebla,Online,340,2,680,Canal Web
+241,2024-02-23,Blusa Floral,Ropa Mujer,Querétaro,Online,204,2,408,Canal Web
+242,2024-04-11,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,627,3,1881,Ana Sánchez
+243,2024-08-20,Camisa Casual,Ropa Hombre,Querétaro,Tienda,501,3,1503,Jorge Pérez
+244,2024-07-19,Blusa Floral,Ropa Mujer,Monterrey,Online,1129,1,1129,Canal Web
+245,2024-07-18,Blusa Floral,Ropa Mujer,Monterrey,Online,1035,4,4140,Canal Web
+246,2024-03-22,Zapatos Formales,Calzado,Monterrey,Online,714,2,1428,Canal Web
+247,2024-01-04,Falda Midi,Ropa Mujer,CDMX Centro,Online,655,5,3275,Canal Web
+248,2024-06-17,Lentes de Sol,Accesorios,Puebla,Tienda,336,3,1008,Jorge Pérez
+249,2024-06-26,Botas Negras,Calzado,Querétaro,Tienda,1000,2,2000,Luis Moreno
+250,2025-04-05,Lentes de Sol,Accesorios,Puebla,Tienda,345,4,1380,Ana Sánchez
+251,2024-05-02,Falda Midi,Ropa Mujer,Querétaro,Online,286,2,572,Canal Web
+252,2024-09-09,Reloj Deportivo,Accesorios,CDMX Centro,Online,306,1,306,Canal Web
+253,2024-09-15,Botas Negras,Calzado,Puebla,Tienda,667,2,1334,Ana Sánchez
+254,2024-08-24,Jeans Slim,Ropa Hombre,Puebla,Online,853,4,3412,Canal Web
+255,2025-03-14,Falda Midi,Ropa Mujer,CDMX Centro,Tienda,663,1,663,Luis Moreno
+256,2024-06-16,Lentes de Sol,Accesorios,Puebla,Tienda,319,5,1595,Luis Moreno
+257,2024-12-31,Mochila Urbana,Accesorios,Puebla,Online,480,2,960,Canal Web
+258,2025-03-05,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,752,1,752,Jorge Pérez
+259,2024-03-27,Playera Básica,Ropa Hombre,CDMX Centro,Online,464,4,1856,Canal Web
+260,2024-07-02,Blusa Floral,Ropa Mujer,CDMX Centro,Tienda,1055,1,1055,Ana Sánchez
+261,2024-07-18,Botas Negras,Calzado,CDMX Centro,Tienda,249,4,996,Luis Moreno
+262,2024-05-07,Tenis Urbanos,Calzado,Monterrey,Tienda,182,4,728,Ana Sánchez
+263,2024-01-08,Tenis Urbanos,Calzado,CDMX Centro,Tienda,347,2,694,Luis Moreno
+264,2024-01-23,Reloj Deportivo,Accesorios,CDMX Centro,Online,810,5,4050,Canal Web
+265,2024-11-16,Vestido Casual,Ropa Mujer,Monterrey,Online,1026,1,1026,Canal Web
+266,2024-04-28,Blusa Floral,Ropa Mujer,Guadalajara,Online,505,1,505,Canal Web
+267,2024-07-24,Tenis Urbanos,Calzado,Puebla,Tienda,1089,2,2178,Ana Sánchez
+268,2024-12-02,Zapatos Formales,Calzado,Querétaro,Online,239,1,239,Canal Web
+269,2025-03-29,Falda Midi,Ropa Mujer,Guadalajara,Online,358,5,1790,Canal Web
+270,2025-02-09,Falda Midi,Ropa Mujer,CDMX Centro,Online,945,2,1890,Canal Web
+271,2024-06-19,Vestido Casual,Ropa Mujer,Guadalajara,Online,288,3,864,Canal Web
+272,2024-01-10,Lentes de Sol,Accesorios,Querétaro,Tienda,1181,5,5905,Ana Sánchez
+273,2024-04-29,Playera Básica,Ropa Hombre,CDMX Centro,Online,634,4,2536,Canal Web
+274,2025-01-22,Vestido Casual,Ropa Mujer,CDMX Centro,Tienda,431,3,1293,Jorge Pérez
+275,2024-05-31,Blusa Floral,Ropa Mujer,Puebla,Tienda,227,2,454,Jorge Pérez
+276,2025-01-13,Tenis Urbanos,Calzado,Guadalajara,Online,231,5,1155,Canal Web
+277,2025-02-09,Reloj Deportivo,Accesorios,Guadalajara,Tienda,619,3,1857,Carmen Díaz
+278,2024-05-04,Vestido Casual,Ropa Mujer,CDMX Centro,Tienda,605,5,3025,Jorge Pérez
+279,2024-09-23,Tenis Urbanos,Calzado,Puebla,Tienda,282,4,1128,Ana Sánchez
+280,2024-04-08,Playera Básica,Ropa Hombre,Monterrey,Tienda,407,1,407,Luis Moreno
+281,2024-10-30,Blusa Floral,Ropa Mujer,Querétaro,Tienda,1022,4,4088,Carmen Díaz
+282,2024-03-25,Blusa Floral,Ropa Mujer,Puebla,Tienda,659,3,1977,Carmen Díaz
+283,2024-10-22,Reloj Deportivo,Accesorios,Monterrey,Online,1135,1,1135,Canal Web
+284,2024-07-03,Lentes de Sol,Accesorios,Monterrey,Online,1053,4,4212,Canal Web
+285,2024-09-15,Mochila Urbana,Accesorios,Puebla,Tienda,931,4,3724,Ana Sánchez
+286,2025-01-23,Zapatos Formales,Calzado,Querétaro,Tienda,509,3,1527,Jorge Pérez
+287,2024-08-25,Botas Negras,Calzado,Guadalajara,Online,1134,1,1134,Canal Web
+288,2024-06-19,Vestido Casual,Ropa Mujer,Puebla,Tienda,466,2,932,Ana Sánchez
+289,2024-01-07,Botas Negras,Calzado,Puebla,Online,958,3,2874,Canal Web
+290,2024-07-15,Lentes de Sol,Accesorios,Querétaro,Tienda,987,1,987,Ana Sánchez
+291,2024-07-16,Blusa Floral,Ropa Mujer,Puebla,Online,863,5,4315,Canal Web
+292,2024-12-29,Reloj Deportivo,Accesorios,Guadalajara,Tienda,939,4,3756,Luis Moreno
+293,2024-05-04,Mochila Urbana,Accesorios,Guadalajara,Tienda,452,3,1356,Jorge Pérez
+294,2024-12-14,Falda Midi,Ropa Mujer,Monterrey,Tienda,175,1,175,Ana Sánchez
+295,2024-11-25,Lentes de Sol,Accesorios,Querétaro,Tienda,536,4,2144,Luis Moreno
+296,2025-02-28,Lentes de Sol,Accesorios,Guadalajara,Online,780,4,3120,Canal Web
+297,2025-01-20,Jeans Slim,Ropa Hombre,Querétaro,Online,442,3,1326,Canal Web
+298,2025-01-18,Vestido Casual,Ropa Mujer,Puebla,Online,163,2,326,Canal Web
+299,2025-02-21,Mochila Urbana,Accesorios,CDMX Centro,Tienda,1005,5,5025,Jorge Pérez
+300,2024-12-01,Zapatos Formales,Calzado,Puebla,Tienda,511,3,1533,Luis Moreno
+301,2024-12-26,Blusa Floral,Ropa Mujer,Puebla,Tienda,1179,1,1179,Jorge Pérez
+302,2024-10-17,Blusa Floral,Ropa Mujer,Monterrey,Tienda,524,2,1048,Carmen Díaz
+303,2025-04-06,Lentes de Sol,Accesorios,Querétaro,Tienda,490,1,490,Carmen Díaz
+304,2024-02-13,Mochila Urbana,Accesorios,Guadalajara,Tienda,850,1,850,Luis Moreno
+305,2024-09-01,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,275,3,825,Ana Sánchez
+306,2024-12-06,Jeans Slim,Ropa Hombre,Monterrey,Tienda,919,5,4595,Carmen Díaz
+307,2024-09-05,Lentes de Sol,Accesorios,Querétaro,Online,839,3,2517,Canal Web
+308,2024-12-15,Botas Negras,Calzado,Monterrey,Online,966,4,3864,Canal Web
+309,2024-11-08,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,156,4,624,Jorge Pérez
+310,2025-01-06,Blusa Floral,Ropa Mujer,Querétaro,Tienda,722,2,1444,Carmen Díaz
+311,2024-08-19,Reloj Deportivo,Accesorios,Puebla,Tienda,156,3,468,Ana Sánchez
+312,2024-11-20,Tenis Urbanos,Calzado,Guadalajara,Online,628,5,3140,Canal Web
+313,2024-09-05,Reloj Deportivo,Accesorios,Querétaro,Tienda,863,4,3452,Jorge Pérez
+314,2024-12-03,Playera Básica,Ropa Hombre,Puebla,Online,549,2,1098,Canal Web
+315,2025-03-21,Jeans Slim,Ropa Hombre,Puebla,Tienda,767,5,3835,Jorge Pérez
+316,2024-03-27,Mochila Urbana,Accesorios,Puebla,Tienda,648,2,1296,Luis Moreno
+317,2025-01-20,Jeans Slim,Ropa Hombre,Puebla,Tienda,478,3,1434,Jorge Pérez
+318,2025-01-27,Tenis Urbanos,Calzado,Guadalajara,Online,402,2,804,Canal Web
+319,2024-09-30,Mochila Urbana,Accesorios,Guadalajara,Tienda,282,3,846,Jorge Pérez
+320,2025-01-02,Reloj Deportivo,Accesorios,Querétaro,Online,627,2,1254,Canal Web
+321,2024-05-12,Camisa Casual,Ropa Hombre,CDMX Centro,Tienda,332,3,996,Luis Moreno
+322,2025-01-16,Playera Básica,Ropa Hombre,Guadalajara,Tienda,791,4,3164,Ana Sánchez
+323,2024-06-08,Playera Básica,Ropa Hombre,Querétaro,Tienda,944,4,3776,Carmen Díaz
+324,2025-01-29,Zapatos Formales,Calzado,Monterrey,Tienda,368,4,1472,Ana Sánchez
+325,2024-10-02,Lentes de Sol,Accesorios,Monterrey,Online,598,4,2392,Canal Web
+326,2024-12-14,Mochila Urbana,Accesorios,Querétaro,Online,448,1,448,Canal Web
+327,2024-11-02,Botas Negras,Calzado,Querétaro,Tienda,710,5,3550,Jorge Pérez
+328,2024-11-19,Falda Midi,Ropa Mujer,Guadalajara,Online,270,3,810,Canal Web
+329,2024-03-19,Vestido Casual,Ropa Mujer,Monterrey,Tienda,516,4,2064,Jorge Pérez
+330,2024-06-02,Blusa Floral,Ropa Mujer,Querétaro,Online,841,4,3364,Canal Web
+331,2024-12-13,Lentes de Sol,Accesorios,Puebla,Online,297,5,1485,Canal Web
+332,2025-01-07,Botas Negras,Calzado,Monterrey,Online,349,2,698,Canal Web
+333,2024-06-14,Playera Básica,Ropa Hombre,Guadalajara,Online,485,5,2425,Canal Web
+334,2024-03-11,Reloj Deportivo,Accesorios,Puebla,Online,446,2,892,Canal Web
+335,2024-04-21,Vestido Casual,Ropa Mujer,CDMX Centro,Online,358,2,716,Canal Web
+336,2024-07-11,Reloj Deportivo,Accesorios,Monterrey,Tienda,346,3,1038,Jorge Pérez
+337,2024-04-01,Jeans Slim,Ropa Hombre,Querétaro,Online,1038,2,2076,Canal Web
+338,2024-11-17,Mochila Urbana,Accesorios,CDMX Centro,Tienda,643,4,2572,Jorge Pérez
+339,2024-06-03,Vestido Casual,Ropa Mujer,Puebla,Tienda,1099,4,4396,Carmen Díaz
+340,2024-11-19,Lentes de Sol,Accesorios,CDMX Centro,Tienda,388,1,388,Ana Sánchez
+341,2024-09-07,Blusa Floral,Ropa Mujer,Querétaro,Online,710,1,710,Canal Web
+342,2025-02-10,Falda Midi,Ropa Mujer,Puebla,Online,761,5,3805,Canal Web
+343,2024-03-05,Camisa Casual,Ropa Hombre,CDMX Centro,Tienda,980,1,980,Jorge Pérez
+344,2024-10-11,Mochila Urbana,Accesorios,Querétaro,Tienda,574,1,574,Luis Moreno
+345,2025-03-17,Blusa Floral,Ropa Mujer,Querétaro,Online,793,1,793,Canal Web
+346,2024-01-21,Vestido Casual,Ropa Mujer,Monterrey,Tienda,329,5,1645,Carmen Díaz
+347,2025-03-11,Jeans Slim,Ropa Hombre,CDMX Centro,Online,894,5,4470,Canal Web
+348,2024-03-28,Reloj Deportivo,Accesorios,CDMX Centro,Tienda,765,1,765,Carmen Díaz
+349,2024-12-03,Mochila Urbana,Accesorios,Querétaro,Online,790,5,3950,Canal Web
+350,2024-06-29,Vestido Casual,Ropa Mujer,CDMX Centro,Tienda,635,1,635,Luis Moreno
+351,2024-03-13,Tenis Urbanos,Calzado,Monterrey,Tienda,885,3,2655,Luis Moreno
+352,2025-01-08,Mochila Urbana,Accesorios,Querétaro,Online,683,4,2732,Canal Web
+353,2024-11-28,Falda Midi,Ropa Mujer,Puebla,Tienda,670,4,2680,Luis Moreno
+354,2024-10-01,Blusa Floral,Ropa Mujer,Guadalajara,Tienda,912,5,4560,Luis Moreno
+355,2024-08-02,Falda Midi,Ropa Mujer,Puebla,Online,203,5,1015,Canal Web
+356,2024-05-06,Camisa Casual,Ropa Hombre,CDMX Centro,Tienda,983,1,983,Carmen Díaz
+357,2024-11-23,Camisa Casual,Ropa Hombre,Guadalajara,Online,449,2,898,Canal Web
+358,2024-05-20,Jeans Slim,Ropa Hombre,Puebla,Tienda,925,1,925,Ana Sánchez
+359,2024-03-30,Zapatos Formales,Calzado,Puebla,Tienda,864,5,4320,Carmen Díaz
+360,2024-10-09,Zapatos Formales,Calzado,CDMX Centro,Tienda,499,3,1497,Jorge Pérez
+361,2024-04-02,Zapatos Formales,Calzado,Querétaro,Online,1126,5,5630,Canal Web
+362,2024-03-06,Tenis Urbanos,Calzado,Querétaro,Tienda,408,2,816,Jorge Pérez
+363,2024-10-17,Tenis Urbanos,Calzado,Guadalajara,Tienda,1006,4,4024,Luis Moreno
+364,2024-08-12,Botas Negras,Calzado,Querétaro,Online,714,4,2856,Canal Web
+365,2024-09-23,Falda Midi,Ropa Mujer,CDMX Centro,Online,982,3,2946,Canal Web
+366,2025-03-08,Playera Básica,Ropa Hombre,CDMX Centro,Tienda,641,1,641,Luis Moreno
+367,2024-10-21,Jeans Slim,Ropa Hombre,Guadalajara,Online,171,4,684,Canal Web
+368,2024-12-12,Falda Midi,Ropa Mujer,Puebla,Tienda,980,1,980,Luis Moreno
+369,2025-03-01,Playera Básica,Ropa Hombre,Puebla,Online,650,5,3250,Canal Web
+370,2024-12-16,Playera Básica,Ropa Hombre,Puebla,Tienda,610,2,1220,Ana Sánchez
+371,2024-07-06,Vestido Casual,Ropa Mujer,Guadalajara,Tienda,1015,4,4060,Jorge Pérez
+372,2024-03-28,Tenis Urbanos,Calzado,Guadalajara,Tienda,391,3,1173,Carmen Díaz
+373,2024-09-04,Botas Negras,Calzado,Monterrey,Tienda,956,2,1912,Carmen Díaz
+374,2024-11-25,Camisa Casual,Ropa Hombre,Querétaro,Online,267,3,801,Canal Web
+375,2024-01-04,Lentes de Sol,Accesorios,Guadalajara,Online,369,1,369,Canal Web
+376,2024-06-28,Falda Midi,Ropa Mujer,Guadalajara,Tienda,357,4,1428,Jorge Pérez
+377,2024-04-11,Playera Básica,Ropa Hombre,Querétaro,Tienda,991,1,991,Jorge Pérez
+378,2024-01-04,Vestido Casual,Ropa Mujer,Guadalajara,Tienda,1113,4,4452,Carmen Díaz
+379,2024-06-02,Botas Negras,Calzado,Monterrey,Online,372,4,1488,Canal Web
+380,2024-12-02,Mochila Urbana,Accesorios,Monterrey,Online,1038,1,1038,Canal Web
+381,2024-07-02,Blusa Floral,Ropa Mujer,Monterrey,Online,232,2,464,Canal Web
+382,2024-07-21,Reloj Deportivo,Accesorios,Guadalajara,Tienda,478,2,956,Jorge Pérez
+383,2024-12-06,Tenis Urbanos,Calzado,Puebla,Online,1164,2,2328,Canal Web
+384,2024-06-15,Reloj Deportivo,Accesorios,Puebla,Tienda,374,1,374,Ana Sánchez
+385,2024-03-05,Falda Midi,Ropa Mujer,Querétaro,Tienda,634,1,634,Carmen Díaz
+386,2024-08-07,Camisa Casual,Ropa Hombre,Puebla,Online,727,4,2908,Canal Web
+387,2024-02-12,Mochila Urbana,Accesorios,Querétaro,Tienda,1197,2,2394,Luis Moreno
+388,2024-05-23,Camisa Casual,Ropa Hombre,Monterrey,Online,556,4,2224,Canal Web
+389,2024-12-27,Playera Básica,Ropa Hombre,Querétaro,Tienda,536,5,2680,Luis Moreno
+390,2024-04-27,Jeans Slim,Ropa Hombre,Puebla,Tienda,710,2,1420,Luis Moreno
+391,2024-08-06,Playera Básica,Ropa Hombre,Monterrey,Tienda,254,4,1016,Jorge Pérez
+392,2024-09-25,Zapatos Formales,Calzado,Monterrey,Tienda,838,4,3352,Jorge Pérez
+393,2024-02-01,Reloj Deportivo,Accesorios,CDMX Centro,Online,375,3,1125,Canal Web
+394,2024-07-05,Botas Negras,Calzado,Puebla,Tienda,805,1,805,Luis Moreno
+395,2024-01-21,Jeans Slim,Ropa Hombre,Guadalajara,Tienda,734,4,2936,Carmen Díaz
+396,2024-11-06,Camisa Casual,Ropa Hombre,Monterrey,Online,1156,3,3468,Canal Web
+397,2024-06-20,Tenis Urbanos,Calzado,CDMX Centro,Tienda,416,3,1248,Carmen Díaz
+398,2025-01-14,Zapatos Formales,Calzado,Querétaro,Online,637,3,1911,Canal Web
+399,2024-04-17,Mochila Urbana,Accesorios,CDMX Centro,Tienda,396,1,396,Luis Moreno
+400,2024-04-08,Mochila Urbana,Accesorios,CDMX Centro,Online,767,4,3068,Canal Web
+401,2025-01-24,Vestido Casual,Ropa Mujer,Monterrey,Tienda,411,2,822,Jorge Pérez
+402,2024-10-08,Zapatos Formales,Calzado,Guadalajara,Online,1068,1,1068,Canal Web
+403,2024-08-11,Camisa Casual,Ropa Hombre,Puebla,Tienda,491,5,2455,Carmen Díaz
+404,2024-12-22,Falda Midi,Ropa Mujer,CDMX Centro,Tienda,539,4,2156,Jorge Pérez
+405,2024-12-16,Jeans Slim,Ropa Hombre,Puebla,Online,949,4,3796,Canal Web
+406,2024-11-06,Tenis Urbanos,Calzado,Monterrey,Tienda,477,5,2385,Luis Moreno
+407,2024-10-30,Playera Básica,Ropa Hombre,Puebla,Online,771,2,1542,Canal Web
+408,2024-05-31,Zapatos Formales,Calzado,CDMX Centro,Tienda,608,1,608,Luis Moreno
+409,2024-05-29,Playera Básica,Ropa Hombre,Monterrey,Online,422,3,1266,Canal Web
+410,2025-03-23,Playera Básica,Ropa Hombre,Monterrey,Tienda,387,1,387,Carmen Díaz
+411,2024-11-19,Botas Negras,Calzado,CDMX Centro,Online,423,4,1692,Canal Web
+412,2025-04-04,Botas Negras,Calzado,CDMX Centro,Tienda,878,2,1756,Carmen Díaz
+413,2024-03-31,Tenis Urbanos,Calzado,Querétaro,Tienda,932,3,2796,Luis Moreno
+414,2025-02-22,Mochila Urbana,Accesorios,Guadalajara,Online,567,5,2835,Canal Web
+415,2024-11-18,Mochila Urbana,Accesorios,Puebla,Tienda,1038,3,3114,Luis Moreno
+416,2025-04-06,Mochila Urbana,Accesorios,Puebla,Tienda,1090,2,2180,Luis Moreno
+417,2024-04-06,Reloj Deportivo,Accesorios,Monterrey,Online,193,3,579,Canal Web
+418,2024-03-24,Falda Midi,Ropa Mujer,Querétaro,Tienda,292,2,584,Ana Sánchez
+419,2024-08-06,Falda Midi,Ropa Mujer,Puebla,Tienda,431,1,431,Ana Sánchez
+420,2024-07-12,Mochila Urbana,Accesorios,CDMX Centro,Tienda,239,2,478,Luis Moreno
+421,2025-01-29,Camisa Casual,Ropa Hombre,Monterrey,Tienda,169,1,169,Carmen Díaz
+422,2025-03-12,Jeans Slim,Ropa Hombre,Monterrey,Online,1059,2,2118,Canal Web
+423,2024-06-06,Botas Negras,Calzado,Monterrey,Tienda,264,5,1320,Carmen Díaz
+424,2024-11-17,Jeans Slim,Ropa Hombre,CDMX Centro,Tienda,757,1,757,Jorge Pérez
+425,2024-03-13,Jeans Slim,Ropa Hombre,CDMX Centro,Tienda,1024,4,4096,Luis Moreno
+426,2024-06-29,Tenis Urbanos,Calzado,Puebla,Tienda,1157,2,2314,Ana Sánchez
+427,2024-04-24,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,833,1,833,Carmen Díaz
+428,2024-02-13,Playera Básica,Ropa Hombre,Monterrey,Tienda,1027,5,5135,Carmen Díaz
+429,2024-11-03,Vestido Casual,Ropa Mujer,Puebla,Tienda,767,5,3835,Carmen Díaz
+430,2024-06-27,Camisa Casual,Ropa Hombre,Puebla,Online,693,1,693,Canal Web
+431,2025-02-07,Jeans Slim,Ropa Hombre,Monterrey,Online,452,4,1808,Canal Web
+432,2024-08-16,Mochila Urbana,Accesorios,CDMX Centro,Online,720,2,1440,Canal Web
+433,2024-02-16,Tenis Urbanos,Calzado,Monterrey,Online,872,3,2616,Canal Web
+434,2024-09-10,Lentes de Sol,Accesorios,Puebla,Online,433,2,866,Canal Web
+435,2024-07-15,Reloj Deportivo,Accesorios,Puebla,Online,621,4,2484,Canal Web
+436,2024-02-12,Reloj Deportivo,Accesorios,Querétaro,Tienda,328,2,656,Carmen Díaz
+437,2024-01-02,Blusa Floral,Ropa Mujer,Guadalajara,Online,423,1,423,Canal Web
+438,2024-01-31,Botas Negras,Calzado,Monterrey,Online,1092,2,2184,Canal Web
+439,2025-03-03,Mochila Urbana,Accesorios,Monterrey,Tienda,264,2,528,Ana Sánchez
+440,2024-12-22,Falda Midi,Ropa Mujer,CDMX Centro,Online,911,1,911,Canal Web
+441,2024-12-25,Playera Básica,Ropa Hombre,Querétaro,Tienda,1126,5,5630,Luis Moreno
+442,2024-01-16,Falda Midi,Ropa Mujer,Monterrey,Tienda,651,1,651,Ana Sánchez
+443,2024-10-18,Mochila Urbana,Accesorios,Monterrey,Online,436,5,2180,Canal Web
+444,2024-12-23,Botas Negras,Calzado,Puebla,Online,1059,1,1059,Canal Web
+445,2024-05-26,Jeans Slim,Ropa Hombre,CDMX Centro,Tienda,505,5,2525,Luis Moreno
+446,2024-01-06,Lentes de Sol,Accesorios,Puebla,Online,1177,3,3531,Canal Web
+447,2024-12-29,Falda Midi,Ropa Mujer,Monterrey,Online,338,5,1690,Canal Web
+448,2024-07-12,Vestido Casual,Ropa Mujer,Monterrey,Online,264,2,528,Canal Web
+449,2024-07-19,Vestido Casual,Ropa Mujer,Querétaro,Tienda,1109,4,4436,Carmen Díaz
+450,2024-11-30,Lentes de Sol,Accesorios,Monterrey,Tienda,910,4,3640,Luis Moreno
+451,2024-05-18,Jeans Slim,Ropa Hombre,CDMX Centro,Online,837,1,837,Canal Web
+452,2024-05-02,Tenis Urbanos,Calzado,Querétaro,Tienda,283,2,566,Ana Sánchez
+453,2025-01-22,Tenis Urbanos,Calzado,Querétaro,Tienda,216,2,432,Carmen Díaz
+454,2024-02-13,Playera Básica,Ropa Hombre,Puebla,Tienda,248,3,744,Ana Sánchez
+455,2024-06-07,Camisa Casual,Ropa Hombre,Guadalajara,Online,1174,2,2348,Canal Web
+456,2024-06-10,Reloj Deportivo,Accesorios,Guadalajara,Tienda,349,3,1047,Jorge Pérez
+457,2025-04-04,Playera Básica,Ropa Hombre,Monterrey,Tienda,932,4,3728,Ana Sánchez
+458,2024-05-28,Blusa Floral,Ropa Mujer,Puebla,Tienda,341,2,682,Luis Moreno
+459,2025-02-17,Vestido Casual,Ropa Mujer,Monterrey,Online,1066,2,2132,Canal Web
+460,2024-06-22,Botas Negras,Calzado,Querétaro,Online,231,4,924,Canal Web
+461,2024-05-02,Vestido Casual,Ropa Mujer,Querétaro,Tienda,462,5,2310,Jorge Pérez
+462,2024-02-19,Jeans Slim,Ropa Hombre,Guadalajara,Tienda,1171,1,1171,Jorge Pérez
+463,2024-06-09,Falda Midi,Ropa Mujer,Monterrey,Tienda,723,5,3615,Carmen Díaz
+464,2024-06-29,Jeans Slim,Ropa Hombre,Monterrey,Online,678,4,2712,Canal Web
+465,2024-05-11,Reloj Deportivo,Accesorios,Monterrey,Tienda,1149,1,1149,Carmen Díaz
+466,2025-03-15,Botas Negras,Calzado,Puebla,Tienda,1052,3,3156,Carmen Díaz
+467,2024-07-10,Playera Básica,Ropa Hombre,Puebla,Online,688,1,688,Canal Web
+468,2024-11-13,Playera Básica,Ropa Hombre,Monterrey,Tienda,466,1,466,Carmen Díaz
+469,2024-07-11,Vestido Casual,Ropa Mujer,Puebla,Tienda,606,4,2424,Jorge Pérez
+470,2024-12-08,Camisa Casual,Ropa Hombre,Puebla,Online,1102,1,1102,Canal Web
+471,2024-02-13,Vestido Casual,Ropa Mujer,CDMX Centro,Online,1037,2,2074,Canal Web
+472,2024-07-24,Tenis Urbanos,Calzado,Guadalajara,Online,1145,2,2290,Canal Web
+473,2024-12-25,Mochila Urbana,Accesorios,Guadalajara,Online,228,5,1140,Canal Web
+474,2024-03-20,Mochila Urbana,Accesorios,Monterrey,Online,214,5,1070,Canal Web
+475,2025-01-31,Mochila Urbana,Accesorios,Guadalajara,Online,1119,2,2238,Canal Web
+476,2024-01-28,Blusa Floral,Ropa Mujer,Puebla,Online,666,2,1332,Canal Web
+477,2024-02-12,Blusa Floral,Ropa Mujer,Guadalajara,Online,317,3,951,Canal Web
+478,2025-03-23,Lentes de Sol,Accesorios,Querétaro,Tienda,681,2,1362,Ana Sánchez
+479,2024-02-17,Lentes de Sol,Accesorios,Guadalajara,Tienda,556,3,1668,Jorge Pérez
+480,2024-09-03,Reloj Deportivo,Accesorios,Monterrey,Online,876,5,4380,Canal Web
+481,2024-07-18,Playera Básica,Ropa Hombre,Querétaro,Tienda,309,5,1545,Luis Moreno
+482,2024-06-14,Tenis Urbanos,Calzado,Monterrey,Online,452,4,1808,Canal Web
+483,2025-03-18,Tenis Urbanos,Calzado,Puebla,Online,157,4,628,Canal Web
+484,2025-03-02,Vestido Casual,Ropa Mujer,Puebla,Tienda,224,2,448,Luis Moreno
+485,2024-08-03,Vestido Casual,Ropa Mujer,Puebla,Tienda,862,2,1724,Luis Moreno
+486,2024-12-13,Camisa Casual,Ropa Hombre,Guadalajara,Tienda,768,3,2304,Ana Sánchez
+487,2024-12-24,Reloj Deportivo,Accesorios,Puebla,Online,990,3,2970,Canal Web
+488,2024-06-29,Reloj Deportivo,Accesorios,Guadalajara,Tienda,510,4,2040,Jorge Pérez
+489,2024-07-10,Vestido Casual,Ropa Mujer,Querétaro,Tienda,1042,4,4168,Carmen Díaz
+490,2025-03-08,Reloj Deportivo,Accesorios,Guadalajara,Tienda,329,1,329,Ana Sánchez
+491,2024-11-28,Playera Básica,Ropa Hombre,Puebla,Tienda,1166,5,5830,Ana Sánchez
+492,2024-11-20,Reloj Deportivo,Accesorios,Querétaro,Tienda,743,4,2972,Luis Moreno
+493,2024-04-24,Reloj Deportivo,Accesorios,Puebla,Tienda,550,4,2200,Ana Sánchez
+494,2024-06-28,Lentes de Sol,Accesorios,Puebla,Tienda,917,2,1834,Carmen Díaz
+495,2024-05-17,Botas Negras,Calzado,Puebla,Tienda,158,4,632,Ana Sánchez
+496,2024-01-08,Jeans Slim,Ropa Hombre,Guadalajara,Online,836,2,1672,Canal Web
+497,2024-10-19,Mochila Urbana,Accesorios,Querétaro,Online,544,5,2720,Canal Web
+498,2024-11-25,Mochila Urbana,Accesorios,Querétaro,Online,413,4,1652,Canal Web
+499,2025-01-07,Falda Midi,Ropa Mujer,Guadalajara,Tienda,1045,2,2090,Ana Sánchez
+500,2024-12-29,Vestido Casual,Ropa Mujer,CDMX Centro,Online,682,5,3410,Canal Web
