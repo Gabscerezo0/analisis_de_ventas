@@ -5,7 +5,7 @@ Este proyecto visualiza las ventas de una empresa ficticia entre enero de 2024 y
 🎯 **Objetivos del Dashboard**
 - Visualizar ventas totales por mes.
 - Comparar ventas entre sucursales y canales (tienda vs online).
-- Identificar los top 5 productos más vendidos (por ingresos y cantidad).
+- Identificar los 5 productos más vendidos (por ingresos y cantidad).
 - Analizar el desempeño por categoría de producto.
 
 📊 **Herramientas Utilizadas**
